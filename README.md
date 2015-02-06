@@ -4,4 +4,4 @@ Script cpplint-to-cppcheckxml is used to convert cpplint xml result into cppchec
 # Installation
 1. Install pygrok from https://github.com/garyelephant/pygrok
 2. Copy file cpplint-to-cppcheckxml.py into /usr/local/bin
-3. Make cpplint-to-cppcheck.py executable, `sudo chmod +x /usr/local/bin/cpplint-to-cppcheck.yml`
+3. Make cpplint-to-cppcheck.py executable, `sudo chmod +x /usr/local/bin/cpplint-to-cppcheckxml.py`
